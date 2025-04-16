@@ -27,7 +27,8 @@ Quiz interativo baseado no universo do jogo Chrono Trigger. Exercício voltado p
 
 ## 📜 Certificado
 
-📄 Em breve: link para o certificado de conclusão da Imersão Alura.
+📄 [🔗 Clique aqui para ver meu certificado](https://cursos.alura.com.br/immersion/certificate/0fae0e61-abe1-400a-8347-2c630c41ed32?lang)
+
 
 ## ✨ Sobre
 
